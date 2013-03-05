@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  sfdc_id: MyString
+  account: 
+  name: MyString
+  amount: 9.99
+  stage: MyString
+  lead_source: MyString
+  closed_on: 2013-03-04
+  order_number: 1
+
+two:
+  sfdc_id: MyString
+  account: 
+  name: MyString
+  amount: 9.99
+  stage: MyString
+  lead_source: MyString
+  closed_on: 2013-03-04
+  order_number: 1
