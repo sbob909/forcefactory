@@ -39,6 +39,8 @@ namespace :db  do
       opp.closed_on = 3.years.ago..Time.now
       opp.order_number = 1000..500000
     end
+    
+    print "#{num_opps} created.\n"
   end
 
 end
